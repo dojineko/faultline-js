@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "lib": ["ES2015", "DOM"],
-    "target": "ES5",
-    "module": "None",
+    "lib": ["es2015", "dom"],
+    "target": "es5",
+    "module": "none",
     "moduleResolution": "node",
     "strictNullChecks": true,
     "noUnusedLocals": true,
